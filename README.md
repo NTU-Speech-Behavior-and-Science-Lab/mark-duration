@@ -1,7 +1,11 @@
 # mark-duration
 ## Prerequisite
+### MatLab
 + MatLab2019b or later
 + Image Processing Toolbox
+### Python
++ pandas
++ tgt
 ## Usage
 The `mark_closure` function is meant to mark the closure or/and release point of the tongue from M mode ultrasound images. The arguments include:
 + inputVideo: A .mp4 file that contains M mode ultrasound images.
